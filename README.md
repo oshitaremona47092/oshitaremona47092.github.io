@@ -1,4 +1,3 @@
-# AppList
+# About
 
-* [MusicApp](https://apps.apple.com/us/app/id1661970249)
-
+* [Privacy](https://clementinabettinisit47.github.io/privacy.html)
