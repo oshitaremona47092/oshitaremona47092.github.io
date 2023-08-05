@@ -1,3 +1,3 @@
 # About
 
-* [Policy](https://clementinabettinisit47.github.io/policy.html)
+* [Policy](https://oshitaremona47092.github.io/policy.html)
